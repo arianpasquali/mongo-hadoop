@@ -6,6 +6,8 @@ The MongoDB Connector for Hadoop is a library which allows MongoDB (or backup fi
 
 Current stable release: **1.3.0**
 
+This fork supports Spark 1.2.0 and Hadoop 2.6.0
+
 ## Features
 
 * Can create data splits to read from standalone, replica set, or sharded configurations
